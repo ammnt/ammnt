@@ -1,4 +1,3 @@
-Hi there and welcome🙋🏻‍
+<center>Hi there and welcome🙋🏻‍</center>
 
-<img align="center" alt="ammnt's logo" src="https://raw.githubusercontent.com/ammnt/ammnt/main/ammnt_logo.png" />
-
+<center><img align="center" alt="ammnt's logo" src="https://raw.githubusercontent.com/ammnt/ammnt/main/ammnt_logo.png" /></center>
