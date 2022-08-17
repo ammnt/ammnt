@@ -5,8 +5,8 @@
 # Description
 
 Now I am interested in the following technologies and knowledge:
-- DevOps culture;
-- Docker, Docker Swarm and Kubernetes;
+- DevOps culture and ITIL framework;
+- Docker, Docker Compose, Docker Swarm and Kubernetes;
 - Prometeus, Grafana and Graylog;
 - QUIC and HTTP/3 protocols;
 - DNS-over-HTTPS and DNS-over-HTTP/3 protocols;
