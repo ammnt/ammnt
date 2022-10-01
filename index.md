@@ -17,4 +17,4 @@ I am just IT-enthusiast and at the moment I have only one active project now - t
 
 ## Note
 
-Feel free to <b><a href="mailto:contact@ammnt.app">contact me</a></b> for any questions👨🏻‍💻
+Feel free to <b><a href="mailto:contact@ammnt.app">contact me</a></b> for any questions!
