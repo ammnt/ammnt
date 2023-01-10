@@ -11,7 +11,7 @@ Now I am interested in the following technologies and knowledge:
 - QUIC and HTTP/3 protocols🌐
 - DNS-over-HTTPS and DNS-over-HTTP/3 protocols🔐
 - NGINX and HTTP Rest API protocol experience📡
-- Kuberenetes clusterisation🧱
+- Kubernetes clusterisation🧱
 
 I am just IT-enthusiast and at the moment I have only one active project now - the Docker image of <a href="https://hub.docker.com/r/ammnt/nginx">NGINX with HTTP/3 (QUIC) support</a>👀
 
