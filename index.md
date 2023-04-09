@@ -17,7 +17,7 @@ Now I am interested in the following technologies and knowledge:
 - Kubernetes clusterisation and cloud solutions☁️
 
 I am IT-enthusiast and now I have two active projects:
-- Docker image of <a href="https://hub.docker.com/r/ammnt/nginx">NGINX with HTTP/3 (QUIC) support</a>👀
+- Docker image of <a href="https://github.com/ammnt/nginx">NGINX with HTTP/3 (QUIC) support</a>👀
 - Extended ads & tracking <a href="https://github.com/ammnt/DeadEnd">DNS filter</a> for AdGuard Home🚧
 
 
