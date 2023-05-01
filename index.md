@@ -6,13 +6,13 @@
 
 Now I am interested in the following technologies and knowledge:
 - DevOps culture and ITIL framework👨🏻‍💻
-- Agile philoshopy and Scrum metodology💼
-- OpenSearch stack and logs management📈
+- Agile philoshopy and Scrum methodology💼
+- OpenSearch stack (OLK) and logs management📈
 - Docker, Docker Compose and Docker Swarm📦
-- Prometheus, Grafana and Graylog services📊
-- QUIC and HTTP/3 protocols🌐
+- Prometheus and Grafana - event monitoring and alerting📊
+- QUIC and HTTP/3 protocols🌍
 - DNS-over-HTTPS and DNS-over-HTTP/3 protocols🔐
-- NGINX and HTTP Rest API protocol experience📡
+- NGINX and other HTTP Rest API protocols experience📡
 - Load Balancing and failover automation🧱
 - Kubernetes clusterisation and cloud solutions☁️
 
