@@ -15,10 +15,12 @@ Now I am interested in the following technologies and knowledges:
 - NGINX and other HTTP Rest API protocols experience📡
 - Load Balancing and failover automation🧱
 - Kubernetes and OpenShift clusterisation and other cloud solutions☁️
+- Istio and other Service Mesh solutions🤯
 
-I am IT-enthusiast and now I have two active projects:
+I am IT-enthusiast and now I have three active projects:
 - Docker image of <a href="https://github.com/ammnt/nginx">NGINX with HTTP/3 (QUIC) support</a>👀
 - Extended ads & tracking <a href="https://github.com/ammnt/DeadEnd">DNS filter</a> for AdGuard Home🚧
+- Docker image of <a href="https://github.com/ammnt/angie">Angie with HTTP/3 (QUIC) support</a>👁️
 
 
 ## Note
