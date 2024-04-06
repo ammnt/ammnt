@@ -18,9 +18,10 @@ Now I am interested in the following technologies and knowledges:
 - Istio and other Service Mesh solutions🤯
 
 I am IT-enthusiast and now I have three active projects:
-- Docker image of <a href="https://github.com/ammnt/nginx">NGINX with HTTP/3 (QUIC) support</a>👀
 - Extended ads & tracking <a href="https://github.com/ammnt/DeadEnd">DNS filter</a> for AdGuard Home🚧
-- Docker image of <a href="https://github.com/ammnt/angie">Angie with HTTP/3 (QUIC) support</a>👁️
+- Docker image of <a href="https://github.com/ammnt/nginx">NGINX with HTTP/3 (QUIC) support</a>👁️
+- Docker image of <a href="https://github.com/ammnt/freenginx">FreeNGINX with HTTP/3 (QUIC) support</a>👀
+- Docker image of <a href="https://github.com/ammnt/angie">Angie with HTTP/3 (QUIC) support</a>🪽
 
 
 ## Note
