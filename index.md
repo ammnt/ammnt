@@ -19,9 +19,9 @@ Now I am interested in the following technologies and knowledges:
 
 I am IT-enthusiast and now I have three active projects:
 - Extended ads & tracking <a href="https://github.com/ammnt/DeadEnd">DNS filter</a> for AdGuard Home🚧
-- Distroless Docker image of <a href="https://github.com/ammnt/nginx">NGINX with HTTP/3 (QUIC) support (OpenSSL)</a>👁️
-- Distroless Docker image of <a href="https://github.com/ammnt/freenginx">FreeNGINX with HTTP/3 (QUIC) support (BoringSSL)</a>👀
-- Distroless Docker image of <a href="https://github.com/ammnt/angie">Angie with HTTP/3 (QUIC) support (QuicTLS)</a>🪽
+- Distroless Docker image of <a href="https://github.com/ammnt/nginx">NGINX with HTTP/3 (QUIC) support</a>👁️
+- Distroless Docker image of <a href="https://github.com/ammnt/freenginx">FreeNGINX with HTTP/3 (QUIC) support</a>👀
+- Distroless Docker image of <a href="https://github.com/ammnt/angie">Angie with HTTP/3 (QUIC) support</a>🪽
 
 
 ## Note
