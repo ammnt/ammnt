@@ -1,66 +1,54 @@
 <center>
   <img align="center" alt="ammnt's logo" src="https://raw.githubusercontent.com/ammnt/ammnt/main/ammnt_logo.png" />
 </center>
-<br>
 
 ***
 
 ## 👨🏻‍💻 About Me
 
-DevOps Engineer with 12+ years of experience in IT. I combine strong technical background in containerization, orchestration, and CI/CD with team leadership and project management expertise.
+DevOps Engineer with 12+ years in IT — containerization, orchestration, CI/CD, team leadership, and project management.
 
-**Recent hands-on experience includes:**
+**Core stack:**
 
-- **Container Orchestration**: Kubernetes, OpenShift, Docker Swarm
-- **Service Mesh**: Istio, mTLS
-- **CI/CD & Automation**: Jenkins (Groovy), Helm, Ansible, Bash, GitHub Actions
-- **Infrastructure & Networking**: NGINX, Linux (RHEL, Debian, Ubuntu), TCP/IP stack, SSL/TLS/HTTPS
-- **Observability**: Prometheus, Grafana, EFK stack (Elasticsearch, Fluentbit, Kibana), OpenSearch, Graylog
-- **Version Control & Collaboration**: Git, GitHub, Bitbucket, Jira, Confluence
-- **Development Stack**: Java applications support, Python (ML project experience), PostgreSQL
-- **Cloud & Virtualization**: OpenShift, Yandex.Cloud Managed K8s, VirtualBox/VMware
+| **Orchestration** | Kubernetes, OpenShift, Docker Сompose
+| **Service Mesh** | Istio, mTLS
+| **CI/CD** | Jenkins (Groovy), GitLab CI, GitHub Actions, Helm, Ansible
+| **Web Servers** | NGINX, Angie, HTTP/3, SSL/TLS/HTTPS
+| **Infrastructure** | Linux (RHEL, Debian, Ubuntu, Alpine), Yandex.Cloud, TCP/IP
+| **Observability** | Prometheus, Grafana, EFK/OLK, OpenSearch, Graylog
+| **Security** | SonarQube, SCA, SAST, HashiCorp Vault, Keycloak
+| **Languages & DB** | Java, Python, Bash, Groovy, PostgreSQL
+| **Tools** | Git, Jira, Confluence, Portainer
 
 ---
 
-## 🚀 Professional Background
+## 🚀 Key Experience
 
-- Full development lifecycle for Java-based applications on OpenShift/Kubernetes stack
-- CI/CD pipelines with Jenkins (Groovy), Helm, Ansible, Bash
+- Full development lifecycle for Java applications on Kubernetes/OpenShift
+- Istio Service Mesh setup, debugging, and mTLS configuration
 - Migration and decommissioning of legacy WildFly/Oracle stacks
-- NGINX configuration for frontend systems and load balancers
-- Istio Service Mesh setup and debugging for interservice communication
-- Developer sandbox environments maintenance (Docker)
-- Artifact delivery to testing and production environments
-- Resource optimization for OpenShift/K8s projects
-- Participation in ArgoCD pilot with GitOps practices
-- Contribution to Russia's first banking Blockchain platform launch
+- GitFlow, release processes, and DevOps documentation from scratch
+- ArgoCD pilot with GitOps practices
+- Resource optimization for K8s/OpenShift projects
+- Banking blockchain platform launch
+- ML project experience with Python stack
+- Developer sandbox environments
+- Onboarding, mentoring, and team coordination
 
 ---
 
-## 🛠 Core Competencies
+## 🔭 Personal Projects & Interests
 
-| **Orchestration** - Kubernetes, OpenShift, Docker Swarm, Docker Compose
-| **Service Mesh** - Istio, mTLS
-| **CI/CD** - Jenkins (Groovy), GitHub Actions, Helm, Ansible, Bash
-| **Web Servers & Protocols** - NGINX, HTTP/3 (QUIC), SSL/TLS/HTTPS, TCP/IP
-| **Infrastructure** - Linux (RHEL, Debian, Ubuntu, Alpine), Yandex.Cloud
-| **Development** - Java, Python, PostgreSQL, JSON/YAML
-| **Tools & Collaboration** - Git, GitHub, Bitbucket, Jira, Confluence
-| **Monitoring & Logging** - Prometheus, Grafana, EFK/OLK, Graylog
+**Open Source Docker images:**
+- [DeadEnd](https://github.com/ammnt/DeadEnd) – DNS filter for AdGuard Home
+- [Distroless NGINX with HTTP/3](https://github.com/ammnt/nginx)
+- [Distroless FreeNGINX](https://github.com/ammnt/freenginx)
+- [Distroless Angie](https://github.com/ammnt/angie)
 
----
-
-## 🔭 Personal Projects
-
-I maintain open-source Docker images and tools in my free time:
-
-- **[DeadEnd](https://github.com/ammnt/DeadEnd)** — Extended DNS filter for AdGuard Home to block ads and trackers 🚧
-- **[Distroless NGINX with HTTP/3](https://github.com/ammnt/nginx)** — Lightweight, secure NGINX Docker image with QUIC support 👁️
-- **[Distroless FreeNGINX](https://github.com/ammnt/freenginx)** — Community-driven NGINX fork, HTTP/3 ready 👀
-- **[Distroless Angie](https://github.com/ammnt/angie)** — Drop-in NGINX replacement with modern protocol support 🪽
+**Interests:** Beta-testing, self-education, English, open-source contributions
 
 ---
 
 ## 📫 Contact
 
-Feel free to **<a href="mailto:admin@msftcnsi.com">contact me</a>** with any questions or inquiries 🙋🏻‍♂️
+**<a href="mailto:admin@msftcnsi.com">admin@msftcnsi.com</a>**
