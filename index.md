@@ -46,9 +46,3 @@ DevOps Engineer with 12+ years in IT — containerization, orchestration, CI/CD,
 - [Distroless Angie](https://github.com/ammnt/angie)
 
 **Interests:** Beta-testing, self-education, English, open-source contributions
-
----
-
-## 📫 Contact
-
-**<a href="mailto:admin@msftcnsi.com">admin@msftcnsi.com</a>**
