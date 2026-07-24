@@ -10,15 +10,15 @@ DevOps Engineer with 12+ years in IT — containerization, orchestration, CI/CD,
 
 **Core stack:**
 
-| **Orchestration** | Kubernetes, OpenShift, Docker Сompose
-| **Service Mesh** | Istio, mTLS
-| **CI/CD** | Jenkins (Groovy), GitLab CI, GitHub Actions, Helm, Ansible
-| **Web Servers** | NGINX, Angie, HTTP/3, SSL/TLS/HTTPS
-| **Infrastructure** | Linux (RHEL, Debian, Ubuntu, Alpine), Yandex.Cloud, TCP/IP
-| **Observability** | Prometheus, Grafana, EFK/OLK, OpenSearch, Graylog
-| **Security** | SonarQube, SCA, SAST, HashiCorp Vault, Keycloak
-| **Languages & DB** | Java, Python, Bash, Groovy, PostgreSQL
-| **Tools** | Git, Jira, Confluence, Portainer
+- **Orchestration** - Kubernetes, OpenShift, Docker Сompose
+- **Service Mesh** - Istio, mTLS
+- **CI/CD** - Jenkins (Groovy), GitLab CI, GitHub Actions, Helm, Ansible
+- **Web Servers** - NGINX, HTTP/3, SSL/TLS/HTTPS
+- **Infrastructure** - Linux (RHEL, Debian, Ubuntu, Alpine), Yandex.Cloud, TCP/IP
+- **Observability** - Prometheus, Grafana, EFK/OLK, OpenSearch, Graylog
+- **Security** - SonarQube, SCA, SAST, HashiCorp Vault, Keycloak
+- **Languages & DB** - Java, Python, Bash, Groovy, PostgreSQL
+- **Tools** - Git, Jira, Confluence, Portainer
 
 ---
 
@@ -41,8 +41,8 @@ DevOps Engineer with 12+ years in IT — containerization, orchestration, CI/CD,
 
 **Open Source Docker images:**
 - [DeadEnd](https://github.com/ammnt/DeadEnd) – DNS filter for AdGuard Home
-- [Distroless NGINX with HTTP/3](https://github.com/ammnt/nginx)
-- [Distroless FreeNGINX](https://github.com/ammnt/freenginx)
-- [Distroless Angie](https://github.com/ammnt/angie)
+- [Distroless NGINX with QUIC and HTTP/3 support](https://github.com/ammnt/nginx)
+- [Distroless FreeNGINX with QUIC and HTTP/3 support](https://github.com/ammnt/freenginx)
+- [Distroless Angie with QUIC and HTTP/3 support](https://github.com/ammnt/angie)
 
-**Interests:** Beta-testing, self-education, English, open-source contributions
+**Interests:** Beta-testing, self-education, open-source contributions etc.
