@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 
-DevOps Engineer with 12+ years in IT - containerization, orchestration, CI/CD, team leadership, and project management. Core stack:
+DevOps Engineer with 13+ years in IT - containerization, orchestration, CI/CD, team leadership, and project management. Core stack:
 - Orchestration - Kubernetes, OpenShift, Docker Сompose
 - Service Mesh - Istio, mTLS
 - CI/CD - Jenkins (Groovy), GitLab CI, GitHub Actions, Helm, Ansible
@@ -38,8 +38,8 @@ DevOps Engineer with 12+ years in IT - containerization, orchestration, CI/CD, t
 
 **Open Source Docker images:**
 - [DeadEnd](https://github.com/ammnt/DeadEnd) - DNS filter for AdGuard Home
-- [Distroless NGINX with QUIC and HTTP/3 support](https://github.com/ammnt/nginx)
-- [Distroless FreeNGINX with QUIC and HTTP/3 support](https://github.com/ammnt/freenginx)
-- [Distroless Angie with QUIC and HTTP/3 support](https://github.com/ammnt/angie)
+- [Distroless NGINX with HTTP/3, QUIC, ECH and PQC support](https://github.com/ammnt/nginx)
+- [Distroless FreeNGINX with HTTP/3, QUIC, ECH and PQC support](https://github.com/ammnt/freenginx)
+- [Distroless Angie with HTTP/3, QUIC, ECH and PQC support](https://github.com/ammnt/angie)
 
 **Interests:** Beta-testing, self-education, open-source contributions etc.
